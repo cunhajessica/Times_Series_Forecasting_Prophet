@@ -33,6 +33,8 @@ O que você vai ver neste projeto?
 * **[Panorama do Covid-19 no Brasil e no Mundo](http://bitly.ws/oBUC)**
 * **[Previsão de Churn para uma empresa de Telecomunicações](http://bitly.ws/sIyx)**
 * **[IA na Detecção de fraudes em cartões de crédito](http://bitly.ws/rLY5)**
+* **[Prevendo o valor do Seguro de Vida](https://github.com/cunhajessica/Previsao_Seguro_de_Vida)**
+* **[Inteligência Artificial auxiliando na saúde de fetos](https://github.com/cunhajessica/Inteligencia_Antificial_na_saude_de_fetos/blob/main/README.md)**
 
 
 
